@@ -1,0 +1,64 @@
+{
+  "Klein_Morretti": {
+    "title": "Klein Morretti",
+    "articleType": "Character",
+    "progress": [
+        {
+            "episode": 1,
+            "pathway": "None",
+            "sequence": "N/A",
+            "content": "Klein Morretti transmigrated from China where he lived as Zhou Mingrui",
+            "aliases": "Zhou Mingrui",
+            "status": "Alive",
+            "possessions": [
+              "Notebook",
+              "Pistol",
+              "Four pieces of rye bread"
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/11/636255.jpg"
+        },
+        {
+            "episode": 2,
+            "pathway": "Seer",
+            "sequence": "9 Seer",
+            "content": "Klein consumed a beyonder potion and gained the Seer pathway, becoming a sequence 9 Seer.",
+            "aliases": "The Fool",
+            "status": "Alive",
+            "possessions": [
+              "Notebook",
+              "Pistol",
+              "Four pieces of rye bread"
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/11/636255.jpg"
+        },
+        {
+            "episode": 3,
+            "pathway": "Seer",
+            "sequence": "8 Clown",
+            "content": "Klein consumed a beyonder potion and gained the Seer pathway, becoming a sequence 9 Seer.",
+            "aliases": "",
+            "status": "Alive",
+            "possessions": [
+              "Notebook",
+              "Pistol",
+              "Four pieces of rye bread"
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/11/636255.jpg"
+        },
+        {
+            "episode": 10,
+            "pathway": "Seer",
+            "sequence": "8 Goober",
+            "content": "Klein consumed a beyonder potion and gained the Seer pathway, becoming a sequence 9 Seer.",
+            "aliases": "",
+            "status": "Alive",
+            "possessions": [
+              "Notebook",
+              "Pistol",
+              "Four pieces of rye bread"
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/11/636255.jpg"
+        }
+    ]
+  }
+}

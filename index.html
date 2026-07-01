@@ -8,21 +8,38 @@
     <link rel="stylesheet" href="./css/styles.css" />
     <!-- Import Vue.js -->
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
   </head>
   <body>
     <div id="app">
-      <div class="nav-bar"></div>
-
-      <h1>{{ intro }}</h1>
-      <button class="btn btn-primary" @click="getData()">Get Data</button>
+      <div id="paper">
+        <div class="rings">
+          <div class="ring">
+            <div class="hole"></div>
+          </div>
+          <div class="ring">
+            <div class="hole"></div>
+          </div>
+          <div class="ring">
+            <div class="hole"></div>
+          </div>
+          <div class="ring">
+            <div class="hole"></div>
+          </div>
+          <div class="ring">
+            <div class="hole"></div>
+          </div>
+        </div>
+      <router-view></router-view>
     </div>
 
     <!-- Import App -->
+    <script src="./js/ProgressPage.js"></script>
+    <script src="./js/SearchPage.js"></script>
+    <script src="./js/HomePage.js"></script>
+    <script src="./js/WikiPage.js"></script>
+    <script src="./js/router.js"></script>
     <script src="./js/main.js"></script>
 
-    <!-- Mount App -->
-    <script>
-      const mountedApp = app.mount('#app')
-    </script>
   </body>
 </html>
